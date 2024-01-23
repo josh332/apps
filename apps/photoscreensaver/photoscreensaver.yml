@@ -1,9 +1,0 @@
-name: PhotoScreenSaver
-description: 'Windows screen saver that displays a photo slideshow'
-website: 'https://github.com/RandScullard/photo-screen-saver'
-keywords:
-  - screensaver
-  - photography
-license: MIT
-category: 'Photo & Video'
-repository: 'https://github.com/RandScullard/photo-screen-saver'
